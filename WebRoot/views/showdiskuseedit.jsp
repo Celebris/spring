@@ -7,5 +7,5 @@
 <form:textarea path="text" rows="5" cols="40"/>
 <form:errors path="text" cssStyle="color:red"></form:errors><form:hidden path="id"/> <br /><br />
 <input type="submit" name="" value="Změnit příspěvek">						
-</form:form></center>
+</form:form></center> 
 <jsp:include page="menudown.jsp"/>
